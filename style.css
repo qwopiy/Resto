@@ -1,0 +1,41 @@
+a.nav-link {
+    color: #fff;
+}
+
+img.img-fluid {
+    border-radius: 5px;
+    max-width: 50%;
+    height: auto;
+}
+
+div.about {
+    margin: 0 auto;
+    text-align: center;
+}
+
+div.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+div.button button {
+    border: solid 1px #000;
+}
+
+#menu {
+    max-width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+img.carousel-menu {
+    object-fit: cover;
+    height: 400px;
+    width: 300px;
+}
+
+h5 a {
+    color: inherit;
+    text-decoration: none;
+}
