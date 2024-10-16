@@ -2,6 +2,10 @@ a.nav-link {
     color: #fff;
 }
 
+a.navbar-brand {
+    color: #fff;
+}
+
 img.img-fluid {
     border-radius: 5px;
     max-width: 50%;
